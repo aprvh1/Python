@@ -1,0 +1,118 @@
+import time
+time.sleep(5)
+
+global a <- a is made global
+
+exit() <- will exit from program 
+quit() <- will exit from program
+
+if (iddd in idd):
+	k=idd.index(iddd)   -> this is substiute for while loop
+
+classname.method(objectofclass) -> use of self
+
+*****
+class lib:
+	init
+	addbooks
+	display book
+	request
+		list.remove(bookname)
+	return
+class customer:
+	enter request
+	enter return request
+*****
+
+
+Tupple:
+tupple has() and list has[]
+tupple is datatype in which u cannot add delete or update in list you can
+slicing is similar to list
+sort () cannot be done
+
+a=tuple(listname) a will be tupple
+b=list(tupplename) b will be list
+
+b=([1,2],[3,4,5])
+a=[(1,2),(3,4,5)]
+
+
+
+17 Dec 2018:
+
+*. 1 list is there, find min value and max value without using max and min function
+*. 2 list ADD it
+*. 1 list is given, multiply it
+
+
+
+18 Dec 2018
+
+Polymorphism
+1. Overriding- Diamond
+
+Random Function-rand()
+import random
+
+** if import a package do not name a program with same name.
+
+Exception Handling
+
+try: do normal work
+except: if error comes
+
+calendar package
+time package
+
+import os
+os.mkdir("Apoorv")
+
+File Handling
+
+
+19 Dec 2018
+
+DBMS Theory
+SQL - Relational Database
+NoSQL
+MySQL is database server
+Microsoft SQL server is of microsoft, SQL is language
+Microsoft Access is also a server
+MySQL two type GUI and command line, we use command line
+
+Task:
+	create database bank
+	create table as apna bank
+	field are name,age,city,acc no(primary key),amt
+		123,124 10 records
+		2 to 2000
+		2 to 3000
+		1 to 5000
+
+
+
+**Task:**
+3 company 3table
+roll 
+stdenregn name course fees paid feess left
+pay fees
+remaing fees 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
